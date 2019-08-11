@@ -1,0 +1,14 @@
+17:07:41| Результат запроса |
+17:07:03| Результат запроса |
+18:07:01| Результат запроса |Array
+18:07:53| Результат запроса |Array
+
+18:07:36| Результат запроса |{"ok":true,"result":{"message_id":115,"from":{"id":682681589,"is_bot":true,"first_name":"WebForMyself","username":"epiclegend_bot"},"chat":{"id":712531723,"first_name":"Sergey","last_name":"Gykov","type":"private"},"date":1563117816,"text":"https://youtu.be/ELpfeXUkUdE","entities":[{"offset":0,"length":28,"type":"url"}]}}
+18:07:05| Результат запроса |{"ok":true,"result":{"message_id":120,"from":{"id":682681589,"is_bot":true,"first_name":"WebForMyself","username":"epiclegend_bot"},"chat":{"id":712531723,"first_name":"Sergey","last_name":"Gykov","type":"private"},"date":1563118506,"text":"https://youtu.be/ELpfeXUkUdE","entities":[{"offset":0,"length":28,"type":"url"}]}}
+23:07:07| Результат запроса |{"ok":true,"result":{"message_id":121,"from":{"id":682681589,"is_bot":true,"first_name":"WebForMyself","username":"epiclegend_bot"},"chat":{"id":712531723,"first_name":"Sergey","last_name":"Gykov","type":"private"},"date":1563135068,"text":"https://youtu.be/hgCQ378xNus","entities":[{"offset":0,"length":28,"type":"url"}]}}
+23:07:11| Результат запроса |{"ok":true,"result":{"message_id":122,"from":{"id":682681589,"is_bot":true,"first_name":"WebForMyself","username":"epiclegend_bot"},"chat":{"id":712531723,"first_name":"Sergey","last_name":"Gykov","type":"private"},"date":1563135071,"text":"https://youtu.be/hgCQ378xNus","entities":[{"offset":0,"length":28,"type":"url"}]}}
+11:07:46| Результат запроса |
+11:07:32| Результат запроса |
+11:07:50| Результат запроса |
+12:07:58| Результат запроса |{"ok":true,"result":{"message_id":123,"from":{"id":682681589,"is_bot":true,"first_name":"WebForMyself","username":"epiclegend_bot"},"chat":{"id":712531723,"first_name":"Sergey","last_name":"Gykov","type":"private"},"date":1563181439,"text":"https://youtu.be/hgCQ378xNus","entities":[{"offset":0,"length":28,"type":"url"}]}}
+12:07:39| Результат запроса |{"ok":true,"result":{"message_id":124,"from":{"id":682681589,"is_bot":true,"first_name":"WebForMyself","username":"epiclegend_bot"},"chat":{"id":712531723,"first_name":"Sergey","last_name":"Gykov","type":"private"},"date":1563181600,"text":"https://youtu.be/hgCQ378xNus","entities":[{"offset":0,"length":28,"type":"url"}]}}
